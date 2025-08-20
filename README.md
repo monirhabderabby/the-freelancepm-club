@@ -1,36 +1,117 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# 📌 The FreelancePM Club — Case Study
 
-First, run the development server:
+[![Visit Website](https://img.shields.io/badge/🌍%20Live%20Site-thefreelancepmclub.com-blue)](https://thefreelancepmclub.com)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📝 Project Overview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**The FreelancePM Club** is a platform I developed to empower **freelance project managers** with the right tools, resources, and community to grow their careers.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+It provides **templates, courses, a job board, skill quizzes, and a supportive Slack community**—all in one hub.
 
-## Learn More
+This project was not only about building features—it was about designing a **scalable SaaS ecosystem** that blends **content delivery, subscription management, and community engagement** seamlessly.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎯 My Goals
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+* Validate a need for a dedicated hub for freelance PMs.
+* Build a **scalable SaaS platform** with tiered membership plans.
+* Provide **real-world value** through templates, courses, and jobs.
+* Showcase my ability to develop **production-ready applications** end-to-end.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## ✨ Key Features I Built
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| Feature                 | Description                                        |
+| ----------------------- | -------------------------------------------------- |
+| **Authentication**      | Secure sign-in/sign-up for members.                |
+| **Subscription System** | Multiple membership tiers with recurring payments. |
+| **Template Library**    | 100+ downloadable PM templates.                    |
+| **Learning Hub**        | Structured courses for freelance project managers. |
+| **Job Board**           | Exclusive freelance PM opportunities.              |
+| **Slack Community**     | Private space for collaboration and peer support.  |
+| **Skill Quizzes**       | Interactive assessments to measure PM knowledge.   |
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+* Next.js (App Router)
+* React
+* Tailwind CSS
+* Framer Motion (animations)
+* ShadCN
+
+**Backend**
+
+* Node.js
+* Express.js
+* Prisma ORM
+* MongoDB
+
+**Integrations**
+
+* Stripe (subscriptions & payments)
+* Slack API (community access)
+* Email service for onboarding & updates
+* Hostinger (hosting & deployment)
+
+---
+
+## 🖼 Screenshots
+
+| Home Page                                                                                 | Templates Library                                                                           |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| ![Home](https://files.edgestore.dev/w83fbai02qyxofbq/promotional/_public/home%20page.png) | ![Templates](https://files.edgestore.dev/w83fbai02qyxofbq/promotional/_public/Packages.png) |
+
+| Courses Page                                                                                  |
+| --------------------------------------------------------------------------------------------- |
+| ![Courses](https://files.edgestore.dev/w83fbai02qyxofbq/promotional/_public/why%20choose.png) |
+
+| Job Board                                                                                    | Subscription Plans                                                                     |
+| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| ![Job Board](https://files.edgestore.dev/w83fbai02qyxofbq/promotional/_public/dashboard.png) | ![Plans](https://files.edgestore.dev/w83fbai02qyxofbq/promotional/_public/invoice.png) |
+
+
+
+---
+
+## 📈 Impact
+
+* Helped freelancers **land jobs faster** (based on user testimonials).
+* Provided a growing **resource hub** for PMs worldwide.
+* Showcased a **subscription-driven SaaS model** with real-world adoption.
+* Demonstrated my ability to build a **scalable, user-friendly product** from scratch.
+
+---
+
+## 👨‍💻 About Me
+
+I’m **Monir Hossain Rabby**, a Full Stack Developer with 3 years of experience building **scalable, user-focused applications**.
+
+I specialize in **Next.js, Tailwind CSS, Prisma, MongoDB, Express.js**, and love turning **complex ideas into polished digital products**.
+
+📧 Email: **[monirhrabby.personal@gmail.com](mailto:monirhrabby.personal@gmail.com)**
+🌍 Portfolio: [monirhrabby.info](https://www.monirhrabby.info)
+💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/monirhabderabby)
+
+---
+
+## 🚀 Conclusion
+
+**The FreelancePM Club** is proof of how I take an idea from **concept → execution → growth**.
+
+This case study reflects my ability to:
+
+* Build SaaS platforms with subscription & payments.
+* Integrate third-party APIs.
+* Deliver **real-world, production-grade applications**.
+
+👉 Check out the live site: [thefreelancepmclub.com](https://thefreelancepmclub.com)
+

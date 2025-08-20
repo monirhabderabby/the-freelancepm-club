@@ -70,9 +70,9 @@ This project was not only about building features—it was about designing a **s
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | ![Home](https://files.edgestore.dev/w83fbai02qyxofbq/promotional/_public/home%20page.png) | ![Templates](https://files.edgestore.dev/w83fbai02qyxofbq/promotional/_public/Packages.png) |
 
-| Courses Page                                                                                  |
+| Home Page                                                                                  |
 | --------------------------------------------------------------------------------------------- |
-| ![Courses](https://files.edgestore.dev/w83fbai02qyxofbq/promotional/_public/why%20choose.png) |
+| ![Home](https://files.edgestore.dev/w83fbai02qyxofbq/freelancePm/_public/Home%20Mockup.webp) |
 
 | Job Board                                                                                    | Subscription Plans                                                                     |
 | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |

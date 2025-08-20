@@ -66,17 +66,17 @@ This project was not only about building features—it was about designing a **s
 
 ## 🖼 Screenshots
 
-| Home Page                                                                                 | Templates Library                                                                           |
+| Course                                                                                 | Subscription                                                                           |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| ![Home](https://files.edgestore.dev/w83fbai02qyxofbq/promotional/_public/home%20page.png) | ![Templates](https://files.edgestore.dev/w83fbai02qyxofbq/promotional/_public/Packages.png) |
+| ![Course](https://files.edgestore.dev/w83fbai02qyxofbq/freelancePm/_public/Course%20Mockup.webp) | ![Subscription](https://files.edgestore.dev/w83fbai02qyxofbq/freelancePm/_public/subscription%20mockup.webp) |
 
 | Home Page                                                                                  |
 | --------------------------------------------------------------------------------------------- |
 | ![Home](https://files.edgestore.dev/w83fbai02qyxofbq/freelancePm/_public/Home%20Mockup.webp) |
 
-| Job Board                                                                                    | Subscription Plans                                                                     |
+| Login                                                                                   | Templates                                                                     |
 | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| ![Job Board](https://files.edgestore.dev/w83fbai02qyxofbq/promotional/_public/dashboard.png) | ![Plans](https://files.edgestore.dev/w83fbai02qyxofbq/promotional/_public/invoice.png) |
+| ![Login](https://files.edgestore.dev/w83fbai02qyxofbq/freelancePm/_public/login%20mockup.webp) | ![Templates](https://files.edgestore.dev/w83fbai02qyxofbq/freelancePm/_public/Template%20Mockup.webp) |
 
 
 
